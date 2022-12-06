@@ -1,0 +1,33 @@
+Azure
+- SQL
+- ADLS (Data Lake)
+- Delta Lake
+- Data Bricks (basics)
+
+
+Big Data
+- SQL/Hive
+- Data Lake
+- Delta Lake
+- Linux
+- Spark
+- HDFS
+- Data Bricks
+- Scala/Python
+
+
+SQL - Topics to be covered
+(DDL, DML, DCL) commands, Indexes, ACID Properties, UNION, GROUP BY, Having Clause, Joins, Rank function, CTE, Temp Table, Functions and Store procs, Pivot
+
+
+
+ADLS - Topics to be covered
+Container, Blob, (HOT, Cold, Archive) Storages, Roles, Access control, ACL, Hierarchy in storing data, different file formats read and write
+
+
+Delta Lake - Topics to be Covered
+What is Parquet?, check points, What is incremental data?, Metadata, DataLake vs Delta Lake
+
+
+Data Bricks - Topics to be covered
+Spark, Data frames, Executor and Data Nodes, DBFS, Spark realted opearations
